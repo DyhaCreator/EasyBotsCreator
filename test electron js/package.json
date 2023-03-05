@@ -1,0 +1,22 @@
+{
+  "name": "package",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DyhaCreator/EasyBotsCreator.git"
+  },
+  "author": "kapusta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DyhaCreator/EasyBotsCreator/issues"
+  },
+  "homepage": "https://github.com/DyhaCreator/EasyBotsCreator#readme",
+  "dependencies": {
+    "electron": "^23.1.2"
+  }
+}
