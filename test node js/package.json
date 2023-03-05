@@ -1,0 +1,14 @@
+{
+  "name": "package",
+  "version": "0.0.1",
+  "description": "",
+  "main": "test1.js",
+  "scripts": {
+    "test": "console.log(\"test\")"
+  },
+  "author": "kapusta",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
