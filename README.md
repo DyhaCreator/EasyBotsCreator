@@ -1,4 +1,4 @@
 # EasyBotsCreator
-EasyBotsCreator - this is a program for creating bots using a simple interface
+EasyBotsCreator - Это программа создаваемая для того чтобы сделать создание ботов для различных мессенджеров проще и бесплатнее
 
-The first folder is an unsuccessful attempt to create this application. It is not required for the program to work.
+Первые три папки в этом репозитории не обязательны к установке потому что в них содержаться лишь мои первые пробы пера в node.js и Electron framework.
