@@ -1,0 +1,96 @@
+html{
+    height:100%;
+}
+body{
+    background:rgb(40,40,40);
+}
+.text-header{
+    font: 1.2em "Segoe UI";
+    margin:10px;
+    color: rgb(255, 255, 255);
+}
+.header-button{
+    background: rgb(100, 100, 100);
+    position:absolute;
+    right: 10px;
+    top: 50px;
+    width:250px;
+    height: 75px;
+    margin-right: 10px;
+    text-align: left;
+    border-radius: 16px;
+    border: 0px;
+}
+.header-button:hover{
+    background: rgb(150,150,150);
+}
+.header-button:active{
+    background: rgb(200,200,200);
+}
+.text-button{
+    color:rgb(255, 255, 255);
+    font: 1.2em "Segoe UI";
+    position: absolute;
+    top:10px;
+    left:60px;
+}
+.text2-button{
+    color:rgb(255, 255, 255);
+    font: 0.8em "Segoe UI";
+    position: absolute;
+    top:30px;
+    left:60px;
+}
+.open-proj{
+    position: relative;
+    top: 17px;
+    left: 15px;
+    width: calc(100% - 300px);
+}
+.proj-card{
+    background:rgb(100, 100, 100);
+    width:100%;
+    height:75px;
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.proj-card:hover{
+    background:rgb(150, 150, 150);
+}
+.proj-card:active{
+    background:rgb(200, 200, 200);
+}
+.proj-img{
+    width: 50px;
+    height:60%;
+    margin-left:10px;
+}
+.proj-name{
+    font-family: "Segoe UI";
+    font-size: 15px;
+    color:rgb(255, 255, 255);
+    position:relative;
+    top: -10px; left:10px;
+}
+.proj-name2{
+    font-family: "Segoe UI";
+    font-size: 11px;
+    color:rgb(255, 255, 255);
+    position:relative;
+    top: -10px; left:10px;
+}
+.proj-card-sec{
+    width:80%;
+}
+.delete-img{
+    width: 50px;
+    height:60%;
+    position: absolute;
+    right: 10px;
+}
+.add-img{
+    width: 50px;
+    height:50px;
+}
